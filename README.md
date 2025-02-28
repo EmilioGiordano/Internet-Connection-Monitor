@@ -5,7 +5,7 @@ Este proyecto es un script en Python que monitorea el estado de la conexión a I
 ## Características principales:
 - Monitoreo en tiempo real de la conexión a Internet.
 - Intervalos de verificación de conexión personalizables.
-- Generación de logs detallados y resúmenes de intervalos.
+- Generación de archivos logs detallados y resúmenes de intervalos.
 
 ## Requisitos:
 - Python 3.x

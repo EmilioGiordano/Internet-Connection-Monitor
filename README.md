@@ -16,3 +16,16 @@ Este proyecto es un script en Python que monitorea el estado de la conexión a I
 2. Ejecuta el script:
    `py internet_monitor.py`
 3. Ingresar el intervalo
+
+
+## Ejemplo de summary.log
+```
+Resumen de intervalos:
+Intervalo 1: Activa durante 304.81 segundos
+Intervalo 2: Perdida durante 16.12 segundos
+Intervalo 3: Activa durante 18.81 segundos
+Intervalo 4: Perdida durante 14.11 segundos
+Intervalo 5: Activa durante 477.18 segundos
+Intervalo 6: Perdida durante 14.12 segundos
+Intervalo 7: Activa durante 404.14 segundos
+```
